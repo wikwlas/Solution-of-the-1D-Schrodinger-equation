@@ -1,0 +1,1 @@
+# Solution-of-the-1D-Schrodinger-equation
